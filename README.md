@@ -1,0 +1,2 @@
+# EasyTexts
+A Sponge plugin
